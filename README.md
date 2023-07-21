@@ -4,7 +4,7 @@ Created a text editor supporting over a dozen commands such as Backspace, Delete
 abstract base classes
 
 <div align="center">
-    <img src="images/test-editor.png" height="250">
+    <img src="images/text-editor.png" height="250">
 </div>
 
 
